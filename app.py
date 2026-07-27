@@ -20,33 +20,6 @@ STOCKS = {
     'NVDA': 'NVIDIA Corp.'
 }
 
-# 주식 데이터 가져오기 함수
-def get_stock_data(symbol, period='1y'):
-		pass
-
-# 기업 정보 표시 함수
-def display_company_info(company_info, current_price):
-		pass
-		
-# 주가 차트 생성 함수
-def create_price_chart(hist_data, symbol):
-		pass
-		
-# 거래량 차트 생성 함수
-def create_volume_chart(hist_data, symbol):
-		pass
-		
-# 기술적 지표 계산 함수
-def calculate_technical_indicators(hist_data):
-		pass
-		
-# 메인 앱 실행 함수
-def main():
-		pass
-		
-if __name__ == '__main__':
-		main()
-
 def get_stock_data(symbol, period='1y'):
     '''
     Parameters:
